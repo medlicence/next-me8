@@ -7,10 +7,14 @@ body {
 }
 
 a {
-  color: inherit;
-  text-decoration: none;
+  padding: 3px;
+  color: darkblue;
+  font-size: 1.3rem;
+  display: block;
 }
 
 * {
   box-sizing: border-box;
 }
+
+
