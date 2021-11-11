@@ -3,6 +3,7 @@ export default function Docs() {
   return (
     <>
       <h1>Our docs !!!!</h1>
+
       <div class = "links-in-div">
   
         <a href='https://egisz.rosminzdrav.ru/'>Единая государственная информационная система в сфере здравоохранения</a>
@@ -15,8 +16,6 @@ export default function Docs() {
         <a href="https://data.gov.ru">Портал открытых данных Российской Федерации</a>
   
       </div>
-      
-
     </>
   )
 }
